@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#db2a37</color>
+    <color name="colorPrimaryDark">#db2a37</color>
+    <color name="colorAccent">#db2a37</color>
+
+    <color name="tab_title_focus">#db2a37</color>
+    <color name="tab_title_default">#c2c2c2</color>
+
+</resources>

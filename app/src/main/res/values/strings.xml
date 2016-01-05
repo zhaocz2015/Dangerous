@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">危化品</string>
+
+    <string name="main_tab_name_home">首页</string>
+    <string name="main_tab_name_search">查询</string>
+    <string name="main_tab_name_profile">我</string>
+</resources>
